@@ -6,7 +6,7 @@ Interesse em toda área tecnológica, desenvolvimento mobile e front end.
 
 Conhecimentos básicos em HTML, CSS, Javascript, Python.
 
-Atualmente cursando graduação em Desenvolvimento Mobile, e estudando Kotlin.
+Atualmente cursando graduação em Desenvolvimento Mobile, e estudando Kotlin e Flutter.
 
 Tenho disponibilidade para viagens a trabalho.
 
