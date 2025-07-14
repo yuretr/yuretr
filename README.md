@@ -1,12 +1,14 @@
 ## Bem-vindo(a)👋
 
-Olá! Me chamo Yure e estou procurando uma oportunidade de aprendizagem e crescimento profissional.
+Profissional com experiência na área administrativa, atuando com elaboração de relatórios, controle de estoque, contas a pagar, atendimento ao cliente, supervisão de equipe e processos de compras e negociação.
 
-Interesse em toda área tecnológica, desenvolvimento mobile e front end.
+Tenho também forte interesse em tecnologia, com conhecimentos em HTML, CSS, JavaScript e WordPress, além de experiência em suporte técnico, criação de artes digitais e web design.
 
-Conhecimentos básicos em HTML, CSS, Javascript, Python.
+Atualmente, estou me aprofundando nos estudos de <b>React</b>.
 
-Atualmente cursando graduação em Desenvolvimento Mobile, e estudando React.
+Finalizei recentemente a graduação em Desenvolvimento Mobile, o que complementa minhas habilidades organizacionais e minha visão voltada para soluções digitais práticas e eficientes.
+
+Gosto de unir organização, comunicação clara e tecnologia para entregar resultados com agilidade e impacto positivo.
 
 
  <br>
@@ -17,6 +19,7 @@ Atualmente cursando graduação em Desenvolvimento Mobile, e estudando React.
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
